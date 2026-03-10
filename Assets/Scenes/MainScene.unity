@@ -145,7 +145,7 @@ MeshCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 47755537}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 95acd537b6a622e4ebfa70659058149b, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -624,8 +624,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d3fe288791092c44dbcd254e1c58ffb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MagnusSoccerKick
-  kickForce: 10
-  spinAmount: 5
+  kickForce: 15
+  spinAmount: 15
   magnusStrength: 0.5
 --- !u!54 &400090589
 Rigidbody:
